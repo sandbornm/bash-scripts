@@ -45,6 +45,7 @@ success "Homebrew ready"
 # -----------------------------------------------------------------------------
 BREW_PACKAGES=(
   tailscale
+  gh
   openjdk@21
   python@3.12
   uv
